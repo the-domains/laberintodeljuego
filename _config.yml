@@ -1,0 +1,14 @@
+layout_spectrum: 0.4318996
+color:
+  saturation: 0.6433692
+  lightness: 0.5663083
+  brandStrength: 1
+  brandColors:
+    - '#FEFEFE'
+    - '#6C9D30'
+    - '#A6A5A6'
+    - '#231F20'
+    - '#5A5757'
+  rhythmicContrast: 0.9193549
+typography_spectrum: 0.1971326
+name: Laberintodeljuego
